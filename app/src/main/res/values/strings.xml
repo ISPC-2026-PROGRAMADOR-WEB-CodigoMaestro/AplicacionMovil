@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HolaMundo</string>
+    <string name="welcome_default">Bienvenido/a</string>
 </resources>
